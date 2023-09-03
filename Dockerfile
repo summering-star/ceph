@@ -1,1 +1,1 @@
-FROM rook/ceph:v1.9.13
+FROM kubernetesui/dashboard:v2.3.1
