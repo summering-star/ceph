@@ -1,1 +1,1 @@
-FROM kubernetesui/metrics-scraper:v1.0.6
+FROM rook/ceph:v1.11.0
